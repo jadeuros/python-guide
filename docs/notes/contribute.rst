@@ -1,7 +1,7 @@
 Contribute
 ~~~~~~~~~~
 
-Python-guide is under active development, and contributors are welcome.
+Python-guide is under active development and contributors are welcome.
 
 If you have a feature request, suggestion, or bug report, please open a new
 issue on GitHub_. To submit patches, please send a pull request on GitHub_.
